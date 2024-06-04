@@ -12,6 +12,7 @@ The sales prediction dataset is sourced from Kaggle and comprises historical dat
 * Credit-Card-Debt
 * Net worth
 * Car purchase amount
+
 *LINK to DATASET: https://www.kaggle.com/datasets/mohdshahnawazaadil/sales-prediction-dataset/data*
 
 ## Exploratory Data Analysis (EDA)
